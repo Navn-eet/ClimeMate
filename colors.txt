@@ -1,9 +1,0 @@
-colors:
-main bg: rgb(47,47,47)
-main div: 	
-small boxes:rgb(35,35,37)
-
------------
-rgb(173,202,222)
------------
-rgb(187,216,236)
